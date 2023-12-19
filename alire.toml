@@ -1,0 +1,7 @@
+name = "opensql_ada_interop"
+description = "Interface Opensql x Ada"
+version = "0.1.0-dev"
+
+authors = ["Antonio Claudio C M da Silva"]
+maintainers = ["Antonio Claudio C M da Silva <asilva@openbase.com.br>"]
+maintainers-logins = ["aclaudiosilva"]
